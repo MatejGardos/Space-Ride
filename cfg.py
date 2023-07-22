@@ -1,0 +1,13 @@
+SCREEN_WIDTH =  600
+SCREEN_HEIGHT = 600
+
+FPS = 60
+
+# Player
+VERTICAL_SPEED = 5
+VERTICAL_ACCELERATION = 0.5 # gravity
+
+# Colors
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+BLACK = (0, 0, 0)
